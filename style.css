@@ -1,0 +1,73 @@
+main{
+background-color:#2F5755 ;
+}
+
+h1{
+  color: white;
+  text-align: center;
+}
+
+h2{
+  color: white;
+  text-align: center;
+}
+
+nav ul{
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: inline-block;
+}
+
+nav li{
+  display: inline-block;
+  margin-right: 20px;
+  color: white;
+}
+
+
+nav {
+  text-align: center;
+}
+
+
+#p{
+  text-align: center;
+  color: white;
+}
+
+.second{
+  background-image: url(acme\ design.jpg);
+  background-position: center;
+  height: 200px;
+  width: 200;
+  font-size: bold;
+}
+
+p{
+  text-align: center;
+  color: white;
+}
+
+.third{
+text-align: center;
+}
+
+button{
+  text-align: center;
+  background-color: orange;
+  color: white;
+  min-width: 180px;
+}
+
+.span{
+  color: orange;
+}
+
+.web{
+  color: white;
+}
+
+
+
+
